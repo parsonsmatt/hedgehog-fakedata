@@ -13,6 +13,8 @@ import qualified Hedgehog.Internal.Gen  as InternalGen
 import qualified Hedgehog.Internal.Seed as InternalSeed
 
 -- | Select a value 'Fake' program in 'Gen'.
+--
+-- @since 0.0.1.0
 fake :: Fake a -> Gen a
 fake f = do
     randomGen <- mkStdGen <$> Gen.integral Range.linearBounded
