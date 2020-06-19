@@ -2,6 +2,10 @@
 
 ## Unreleased Changes
 
+## 0.0.1.2
+
+- Remove upper bound on `fakedata`.
+
 ## 0.0.1.1
 
 - Relax version bound for `fakedata-0.7.0`
