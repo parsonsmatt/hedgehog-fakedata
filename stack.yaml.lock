@@ -3,7 +3,35 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    hackage: fakedata-0.7.0@sha256:323e170281fea277202867cfdc79a415fc66f3b8e1245532720e207e785b1dbe,20180
+    pantry-tree:
+      size: 41531
+      sha256: 37e722cce92d5eaae53e7430c583489800a683adf433e0c6efd3f8fe7792056a
+  original:
+    hackage: fakedata-0.7.0
+- completed:
+    hackage: random-1.2.0@sha256:5ca8674e95c46c7eb90f520c26aea22d403625c97697275434afba66ebd32b05,5897
+    pantry-tree:
+      size: 1259
+      sha256: 8ba46c3d6b1cd0d4a4ee472922497f8d0778a1aaf7bbcac328a0b06b4d153309
+  original:
+    hackage: random-1.2.0
+- completed:
+    hackage: string-random-0.1.2.0@sha256:db4f801dec1ec72cba7d662b9774da60ff54de6d05478e94478d6d730dc5034f,2439
+    pantry-tree:
+      size: 489
+      sha256: 21c7e61fceea98d14b453fc74c947b715ce33fe4c665c65b1f28c6f417d4ab7e
+  original:
+    hackage: string-random-0.1.2.0
+- completed:
+    hackage: splitmix-0.1@sha256:d50c4d0801a35be7875a040470c09863342514930c82a7d25780a6c2efc4fda9,5249
+    pantry-tree:
+      size: 1148
+      sha256: 2c884d06818f79030551aab192eee23734fd499361f4f4dcb4c51d1b1b2d786e
+  original:
+    hackage: splitmix-0.1
 snapshots:
 - completed:
     size: 524163
