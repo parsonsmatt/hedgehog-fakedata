@@ -3,5 +3,10 @@ resolver: lts-14.25
 packages:
 - .
 
+allow-newer: true
+
 extra-deps:
 - fakedata-0.7.0
+- random-1.2.0
+- string-random-0.1.2.0
+- splitmix-0.1
