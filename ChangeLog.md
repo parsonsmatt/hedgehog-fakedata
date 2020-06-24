@@ -2,6 +2,10 @@
 
 ## Unreleased Changes
 
+## 0.0.1.3
+
+- Relax upper bound on `random`
+ 
 ## 0.0.1.2
 
 - Remove upper bound on `fakedata`.
