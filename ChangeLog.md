@@ -2,6 +2,10 @@
 
 ## Unreleased Changes
 
+## 0.0.1.4
+
+- The generator will no longer shrink the random seed given to the `fakedata` library. [#5](https://github.com/parsonsmatt/hedgehog-fakedata/pull/5)
+
 ## 0.0.1.3
 
 - Relax upper bound on `random`
