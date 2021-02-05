@@ -17,7 +17,7 @@ import qualified Hedgehog.Internal.Seed as InternalSeed
 -- @since 0.0.1.0
 fake :: Fake a -> Gen a
 fake f = do
-    randomGen <- mkStdGen <$> Gen.integral Range.linearBounded
+    randomGen <- mkStdGen <$> Gen.integral_ Range.linearBounded
     pure $!
         unsafePerformIO $
         -- (parsonsmatt): OK so `unsafePerformIO` is bad, unless you know exactly
