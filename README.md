@@ -1,4 +1,4 @@
-# hedgehog-faker
+# hedgehog-fakedata
 
 [![Build Status](https://travis-ci.org/parsonsmatt/hedgehog-fakedata.svg?branch=master)](https://travis-ci.org/parsonsmatt/hedgehog-fakedata)
 ![Hackage-Deps](https://img.shields.io/hackage-deps/v/hedgehog-fakedata)

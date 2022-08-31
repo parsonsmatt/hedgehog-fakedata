@@ -32,6 +32,13 @@ packages:
       sha256: 2c884d06818f79030551aab192eee23734fd499361f4f4dcb4c51d1b1b2d786e
   original:
     hackage: splitmix-0.1
+- completed:
+    hackage: hedgehog-1.2@sha256:b7abfb2db7638c50eb8ee76186ee627ea7ab187220e4ea966b5738a1bde3b22a,4496
+    pantry-tree:
+      size: 2713
+      sha256: 88d4d31c94383a956d551a6d4ff1d6eddeaad17b5b97d2db7118a20965223285
+  original:
+    hackage: hedgehog-1.2
 snapshots:
 - completed:
     size: 524163
