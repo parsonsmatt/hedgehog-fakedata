@@ -10,3 +10,4 @@ extra-deps:
 - random-1.2.0
 - string-random-0.1.2.0
 - splitmix-0.1
+- hedgehog-1.2
